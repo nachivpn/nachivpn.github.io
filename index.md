@@ -16,7 +16,7 @@ Also, I am intrigued by metaproblems and hence, very curious about philosophy.
 ## Social
 My blog:
 
-* [Blogger](http://nachivpn.blogspot.com/)
+* [Blogger](http://blog.nachivpn.me/)
 
 You can find me:
 
