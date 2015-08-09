@@ -1,0 +1,9 @@
+# Site settings
+title: Nachi Vpn | About Me
+tag_text: Nachi Vpn
+description: About me
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]

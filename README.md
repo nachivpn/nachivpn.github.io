@@ -1,2 +1,4 @@
 # nachivpn.github.io
-Website
+About me.
+
+Thanks to [chibicode](https://github.com/chibicode/solo) for the Jekyll template. 
