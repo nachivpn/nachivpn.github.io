@@ -24,3 +24,4 @@ You can find me:
 * On [Github](https://github.com/nachivpn)
 * On [LinkedIn](https://www.linkedin.com/in/nachivpn)
 * On [Goodreads](https://www.goodreads.com/user/show/45403127-nachi)
+* On [StackOverflow](http://stackoverflow.com/users/3928699/nachi)
