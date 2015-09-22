@@ -26,11 +26,14 @@ Lately, I've been very curious about philosophy too.
 * Web scraping
 * Compilers 
 
-## Some links 
+## Academic projects
+
+* [SILCNITC project](http://silcnitc.github.io/about.html)
+ 
+## Some links
 
 * [Venturebeat article](http://venturebeat.com/2014/12/24/googles-no-captcha-recaptchas-may-not-be-as-bot-proof-as-we-thought)
 * [ShieldSquare blog](http://www.shieldsquare.com/author/nachiappan-v/)
-* [SILCNITC project](http://silcnitc.github.io/about.html)
 
 ## Social
 
