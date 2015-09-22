@@ -32,7 +32,7 @@ Lately, I've been very curious about philosophy too.
  
 ## Some links
 
-* [Venturebeat article](http://venturebeat.com/2014/12/24/googles-no-captcha-recaptchas-may-not-be-as-bot-proof-as-we-thought)
+* [VentureBeat article](http://venturebeat.com/2014/12/24/googles-no-captcha-recaptchas-may-not-be-as-bot-proof-as-we-thought)
 * [ShieldSquare blog](http://www.shieldsquare.com/author/nachiappan-v/)
 
 ## Social
@@ -48,3 +48,6 @@ Can also be found on:
 * [LinkedIn](https://www.linkedin.com/in/nachivpn)
 * [Goodreads](https://www.goodreads.com/user/show/45403127-nachi)
 * [StackOverflow](http://stackoverflow.com/users/3928699/nachi)
+* [ResearchGate](https://www.researchgate.net/profile/Nachiappan_Vpn/info)
+* [Hacker News](https://news.ycombinator.com/user?id=nachivpn)
+* [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Nachivpn)
