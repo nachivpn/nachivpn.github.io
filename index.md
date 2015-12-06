@@ -2,29 +2,25 @@
 layout: default
 ---
 
-I am a hacker who has been around in the software industry since I graduated from NIT Calicut in 2014. I look forward to pursuing higher education in the near future.  Currently, I work as a software developer at Acrodelon R&D on some very interesting problems.
+I am a hacker who has been around in the software industry since I graduated from NIT Calicut in 2014. I look forward to pursuing higher education in the near future.  Currently, I work building large distributed systems at [Acrodelon](http://acrodelon.com) R&D.
 
 ## Interests
 
 Technology and programming excites me, but not more than the underlying theory. My specific theoretical interests (currently) include programming languages. I hope to do some research in the area of programming languages during my stint as a post-graduate student. 
-
-More than the output of the research, it is the process of problem solving that I am more interested in. My choice of programming languages is mostly driven by my belief that the programming language domain has solved many *meta-problems* and provides a platform of powerful abstractions which can be used in many domain specific problems. I think there is a fun factor involved as well. Any computer scientist or hacker with a decent understanding of programming languages would probably tell you the same.
-
-Lately, I've been very curious about philosophy too.  
+ 
+Programming languages provide powerful abstractions to build software systems. Much success has been achieved in sequential computation - we have a plethora of high level programming languages which ensure we don't worry too much about memory management, run time safety and other similar "low level" problems. It is the age of distributed computation and we are still using tools designed for sequential computation. It appears that when building distributed systems, we spend most of our time solving concurrency and communication problems. It would be useful to have tools (say a programming language) to solve these problems internally and provide an effective abstraction to build distributed systems. This way, one can focus on the application logic instead of writing tedious communication protocols, synchronization algorithms etc. This would be interesting area of research. This is also an active area of research - most notable the [ABCD project](http://groups.inf.ed.ac.uk/abcd) by Philip Wadler et al.
 
 ## Current work
 
-* [Knowledge representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning)
-* [Symbolic AI](https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence) 
-* [Data warehousing](https://en.wikipedia.org/wiki/Data_warehouse)
-* Distributed applications
+* Distributed systems
+* Large scale data processing systems
+* Knowledge representation and reasoning
 
 ## Past work
 
-* [Security as a service](https://en.wikipedia.org/wiki/Security_as_a_service)
-* Server programming
-* Web scraping
-* Compilers 
+* Network applications
+* Pattern recognition & Classification 
+* Programming languages & Compilers 
 
 ## Academic projects
 
