@@ -2,13 +2,13 @@
 layout: default
 ---
 
-I am a hacker who has been around in the software industry since I graduated from NIT Calicut in 2014. I look forward to pursuing higher education in the near future.  Currently, I work building large distributed systems at [Acrodelon](http://acrodelon.com) R&D.
+I am a hacker who has been around in the software industry since I graduated from NIT Calicut in 2014. I look forward to pursuing higher education in the near future.  Currently, I work on building large distributed systems at [Acrodelon](http://acrodelon.com) R&D.
 
 ## Interests
 
 Technology and programming excites me, but not more than the underlying theory. My specific theoretical interests (currently) include programming languages. I hope to do some research in the area of programming languages during my stint as a post-graduate student. 
  
-Programming languages provide powerful abstractions to build software systems. Much success has been achieved in sequential computation - we have a plethora of high level programming languages which ensure we don't worry too much about memory management, run time safety and other similar "low level" problems. It is the age of distributed computation and we are still using tools designed for sequential computation. It appears that when building distributed systems, we spend most of our time solving concurrency and communication problems. It would be useful to have tools (say a programming language) to solve these problems internally and provide an effective abstraction to build distributed systems. This way, one can focus on the application logic instead of writing tedious communication protocols, synchronization algorithms etc. This would be interesting area of research. This is also an active area of research - most notable the [ABCD project](http://groups.inf.ed.ac.uk/abcd) by Philip Wadler et al.
+Programming languages provide powerful abstractions to build software systems. Much success has been achieved in sequential computation - we have a plethora of high level programming languages which ensure we don't worry too much about memory management, run time safety and other similar "low level" problems. It is the age of distributed computation and we are still using tools designed for sequential computation. It appears that when building distributed systems, we spend most of our time solving concurrency and communication problems. It would be useful to have tools (say a programming language) to solve these problems internally and provide an effective abstraction to build distributed systems. This way, one can focus on the application logic instead of writing tedious communication protocols, synchronization algorithms etc. This would be an interesting area of research. This is also an active area of research - most notably, the [ABCD project](http://groups.inf.ed.ac.uk/abcd) by Philip Wadler et al.
 
 ## Current work
 
