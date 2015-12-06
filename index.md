@@ -24,7 +24,8 @@ Programming languages provide powerful abstractions to build software systems. M
 
 ## Academic projects
 
-* [SILCNITC project](http://silcnitc.github.io/about.html)
+* [SILCNITC - Compiler construction demystified](http://silcnitc.github.io/about.html)
+* [ULCI - An Interpreter for the Untyped Lambda Calculus](Untyped Lambda Calculus Interpreter)
  
 ## Some links
 
