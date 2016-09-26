@@ -6,11 +6,9 @@ I am a hacker and an aspiring computer scientist. I'm currently doing my Masters
 
 I believe we are versatile beings and I like to work on different problems with varying natures and challenges. Currently, I'm involved in academics. In the past, I've worked in the industry in various roles.
 
-## Interests
+## Interests and current work
 
-Technology and programming excites me, but not more than the underlying theory. My theoretical interests include programming languages.
-
-## Current work
+Technology and programming excites me, but not more than the underlying theory. My specific theoretical interests include programming languages.
 
 My primary focus now is to build a strong theoretical foundation through my masters program at Chalmers. Also, I actively take part in the technology industry as a part-time software consultant.
 
