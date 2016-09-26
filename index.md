@@ -10,7 +10,7 @@ I believe we are versatile beings and I like to work on different problems with 
 
 Technology and programming excites me, but not more than the underlying theory. My specific theoretical interests include programming languages.
 
-My primary focus now is to build a strong theoretical foundation through my masters program at Chalmers. Also, I actively take part in the technology industry as a part-time software consultant.
+My primary focus now is to build a strong theoretical foundation through my masters program at Chalmers. Also, I actively take part in the IT industry as a part-time software consultant.
 
 ## Past avatars
 
