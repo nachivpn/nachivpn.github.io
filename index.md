@@ -26,7 +26,7 @@ My primary focus now is to build a strong theoretical foundation through my mast
 ### Academic projects
 
 * [SILCNITC - Compiler construction demystified](http://silcnitc.github.io/about.html)
-* [ULCI - An Interpreter for the Untyped Lambda Calculus](Untyped Lambda Calculus Interpreter)
+* [ULCI - An Interpreter for the Untyped Lambda Calculus](https://github.com/nachivpn/ulci)
  
 ## Social
 
