@@ -20,6 +20,7 @@ My primary focus now is to build a strong theoretical foundation through my mast
 * Product development and DevOps at [ShieldSquare](https://www.shieldsquare.com)
 
 ### Consultancy gigs
+* Product design and development at [TrustyWater](http://trustywater.in/)
 * Backend development at [SecureMe](http://securemedevices.com/index.html)
 * Cloud solutions at [Enterpriseforce](http://enterpriseforce.in/)
 
