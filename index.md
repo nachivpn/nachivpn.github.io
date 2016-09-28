@@ -25,6 +25,7 @@ My primary focus now is to build a strong theoretical foundation through my mast
 
 ### Academic projects
 
+* [OCD - On Concurrency and Distribution [Paused]](http://blog.nachivpn.me/search/label/Notes%20on%20concurrency%20and%20distribution)
 * [SILCNITC - Compiler construction demystified](http://silcnitc.github.io/about.html)
  
 ## Social
