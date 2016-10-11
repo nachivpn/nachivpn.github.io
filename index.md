@@ -36,7 +36,7 @@ My primary focus now is to build a strong theoretical foundation through my mast
 * [Twitter](https://twitter.com/nachivpn)
 * [LinkedIn](https://www.linkedin.com/in/nachivpn)
 * [Goodreads](https://www.goodreads.com/user/show/45403127-nachi)
-* [StackOverflow](http://stackoverflow.com/users/3928699/nachi)
+* [StackOverflow](http://stackexchange.com/users/4872752/nachi?tab=accounts)
 * [ResearchGate](https://www.researchgate.net/profile/Nachiappan_Vpn/info)
 * [Hacker News](https://news.ycombinator.com/user?id=nachivpn)
 * [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Nachivpn)
