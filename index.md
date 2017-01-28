@@ -2,16 +2,19 @@
 layout: default
 ---
 
-I am a hacker and an aspiring computer scientist, doing my Masters program in Computer Science (Algorithms, Logic and Languages) at Chalmers University of Technology in Sweden.
+I am a hacker and an aspiring computer scientist, doing Masters in Computer Science (Algorithms, Logic and Languages) at Chalmers University of Technology in Sweden.
 
 ## Interests and current work
 
-Technology and programming excites me, but not more than the underlying theory. Currently, I'm involved in academics, and experimenting with my interests in programming language theory and formal logic with an application in concurrent and distributed systems. Functional programming and program verification for large scale systems seem like interesting areas of research.
+Technology and programming excites me, but no more than the underlying theory. Currently, I'm experimenting with my interests in programming language theory and formal logic with an application in concurrent and distributed systems. Functional programming and program verification for large scale systems seem like interesting areas of research.
 
 ### Current activities
 * Teaching Assistant for DIT960 (Data Structures) at Chalmers/Gothenburg University
 * Technology Advisory Consultant at [SenseWave](https://angel.co/sensewave-1)
-* Working on [ALPS](https://github.com/alps-chalmers)
+* Working on [ALPS](https://github.com/alps-chalmers) at Chalmers
+
+### Projects
+* [ALPS](https://github.com/alps-chalmers) - An LTL Proof System to reason about concurrent programs
 
 ## Past avatars
 
@@ -29,7 +32,6 @@ I graduated from National Institute of Technology - Calicut in India, after whic
 
 ### Projects
 
-* [ALPS](https://github.com/alps-chalmers) - An LTL Proof System to reason about concurrent programs [CURRENT]
 * [OCD](http://blog.nachivpn.me/search/label/Notes%20on%20concurrency%20and%20distribution) - On Concurrency and Distribution [PAUSED]
 * [SILCNITC](http://silcnitc.github.io/about.html) - Compiler construction demystified
  
