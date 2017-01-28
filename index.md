@@ -8,7 +8,7 @@ I am a hacker and an aspiring computer scientist, doing my Masters program in Co
 
 Technology and programming excites me, but not more than the underlying theory. Currently, I'm involved in academics, and experimenting with my interests in programming language theory and formal logic with an application in concurrent and distributed systems. Functional programming and program verification for large scale systems seem like interesting areas of research.
 
-### Current activities:
+### Current activities
 * Teaching Assistant for DIT960 (Data Structures) at Chalmers/Gothenburg University
 * Technology Advisory Consultant at [SenseWave](https://angel.co/sensewave-1)
 * Working on [ALPS](https://github.com/alps-chalmers)
