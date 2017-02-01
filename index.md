@@ -12,6 +12,7 @@ Technology and programming excites me, but no more than the underlying theory. C
 * Teaching Assistant for DIT960 (Data Structures) at Chalmers/Gothenburg University
 * Technology Advisory Consultant at [SenseWave](https://angel.co/sensewave-1)
 * Working on [ALPS](https://github.com/alps-chalmers) at Chalmers
+* Organizer at [Papers We Love, Gothenburg](http://paperswelove.org/chapter/gothenburg/)
 
 ### Projects
 * [ALPS](https://github.com/alps-chalmers) - An LTL Proof System to reason about concurrent programs
