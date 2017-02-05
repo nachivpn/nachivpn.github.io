@@ -10,7 +10,6 @@ Technology and programming excites me, but no more than the underlying theory. C
 
 ### Current activities
 * Teaching Assistant for DIT960 (Data Structures) at Chalmers/Gothenburg University
-* Technology Advisory Consultant at [SenseWave](https://angel.co/sensewave-1)
 * Working on [ALPS](https://github.com/alps-chalmers) at Chalmers
 * Organizer at [Papers We Love, Gothenburg](http://paperswelove.org/chapter/gothenburg/)
 
@@ -27,6 +26,7 @@ I graduated from National Institute of Technology - Calicut in India, after whic
 * Product development and DevOps at [ShieldSquare](https://www.shieldsquare.com)
 
 ### Consultancy gigs
+* Technology Advisory at [SenseWave](https://angel.co/sensewave-1)
 * Product design and development at [TrustyWater](http://trustywater.in/)
 * Backend development at [SecureMe](http://securemedevices.com/index.html)
 * Cloud solutions at [Enterpriseforce](http://enterpriseforce.in/)
