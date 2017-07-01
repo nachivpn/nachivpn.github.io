@@ -10,7 +10,7 @@ Technology and programming excites me, but no more than the underlying theory. C
 
 ## What am I upto?
 
-* Summer student working on Distributed systems at CERN
+* Summer student working on distributed systems at CERN
 * Working on a project to reason about concurrent programs ([ALPS](https://github.com/alps-chalmers)) at Chalmers
 * Organize talks at [Papers We Love, Gothenburg](http://paperswelove.org/chapter/gothenburg/)
 
