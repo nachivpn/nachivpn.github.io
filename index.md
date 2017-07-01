@@ -8,32 +8,18 @@ I am a hacker and an aspiring computer scientist, doing Masters in Computer Scie
 
 Technology and programming excites me, but no more than the underlying theory. Currently, I'm experimenting with my interests in programming language theory and formal logic with an application in concurrent and distributed systems. Functional programming and program verification for large scale systems seem like interesting areas of research.
 
-### Current activities
+## What am I upto?
+
+* Summer student working on Distributed systems at CERN
+* Working on a project to reason about concurrent programs ([ALPS](https://github.com/alps-chalmers)) at Chalmers
+* Organize talks at [Papers We Love, Gothenburg](http://paperswelove.org/chapter/gothenburg/)
+
+## Some things I've done in the past
+
 * Teaching Assistant for DIT960 (Data Structures) at Chalmers/Gothenburg University
-* Technology Advisory Consultant at [SenseWave](https://angel.co/sensewave-1)
-* Working on [ALPS](https://github.com/alps-chalmers) at Chalmers
-* Organizer at [Papers We Love, Gothenburg](http://paperswelove.org/chapter/gothenburg/)
-
-### Projects
-* [ALPS](https://github.com/alps-chalmers) - An LTL Proof System to reason about concurrent programs
-
-## Past avatars
-
-I graduated from National Institute of Technology - Calicut in India, after which I worked in the industry in various roles for a couple of years.
-
-### Full-time
-
-* Distributed systems and AI at [Acrodelon R&D](http://acrodelon.com)
-* Product development and DevOps at [ShieldSquare](https://www.shieldsquare.com)
-
-### Consultancy gigs
-* Product design and development at [TrustyWater](http://trustywater.in/)
-* Backend development at [SecureMe](http://securemedevices.com/index.html)
-* Cloud solutions at [Enterpriseforce](http://enterpriseforce.in/)
-
-### Projects
-
-* [OCD](http://blog.nachivpn.me/search/label/Notes%20on%20concurrency%20and%20distribution) - On Concurrency and Distribution [PAUSED]
+* Distributed systems and some AI at [Acrodelon R&D](http://acrodelon.com)
+* Backend development at [ShieldSquare](https://www.shieldsquare.com)
+* Backend development and consultancy at [TrustyWater](http://trustywater.in/), [SecureMe](http://securemedevices.com/index.html), [Enterpriseforce](http://enterpriseforce.in/)
 * [SILCNITC](http://silcnitc.github.io/about.html) - Compiler construction demystified
  
 ## Social
