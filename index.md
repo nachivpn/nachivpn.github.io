@@ -2,37 +2,34 @@
 layout: default
 ---
 
-I am an aspiring computer scientist doing Masters in Computer Science (Algorithms, Logic and Languages) at Chalmers University of Technology in Sweden.
+I'm an aspiring computer scientist who will be pursuing a PhD at Chalmers University starting September 2018.
 
 ## Interests
 
-Technology and programming excites me, but no more than the underlying theory. Currently, I'm experimenting with my interests in programming language theory and formal logic with an application in concurrent and distributed systems. Functional programming and type systems for large scale distributed software seem like interesting areas of research.
+Technology and programming excites me, but no more than the underlying theory. Currently, I'm experimenting with my interests in programming language theory and formal logic, with an application in concurrent and distributed systems. Functional programming and type systems for distributed programming are of particular interest to me.
+
+## Recent work
+
+* [Typing the Wild in Erlang](ew18.pdf), Erlang Workshop at ICFP 2018
+* [Towards Adding Variety to Simplicity](variety.pdf), ISoLA 2018
 
 ## What am I upto?
 
-* Working on a static type system for Erlang!
-* Learning category theory by realizing the more familiar proof theory and type theory in it
-* Teaching Assistant at Chalmers/Gothenburg University  
 * Organizing talks at [Papers We Love, Gothenburg](http://paperswelove.org/chapter/gothenburg/)
 
 ## Some things I've done in the past
+* Masters in Computer Science (Algorithms, Logic and Languages) at Chalmers University, Sweden
 * Summer student at CERN, worked on [Molr](https://github.com/nachivpn/molr-core) & [FADE](https://webfest.web.cern.ch/content/fade-framework-distributed-execution)
-* Project on theoretical foundations for reasoning about concurrent imperative programs using logic
-* Distributed systems (and some AI) at [Acrodelon R&D](http://acrodelon.com)
+* Distributed systems at [Acrodelon R&D](http://acrodelon.com)
 * Backend development/consultant at/for a bunch of companies
-* Project on designing a compiler construction laboratory ([SILCNITC](http://silcnitc.github.io/about.html))
+* Bachelors in Computer Science & Engineering at National Institute of Technology, Calicut
  
 ## Social
 
 * [Blog](http://blog.nachivpn.me/)
 * [Github](https://github.com/nachivpn)
 * [Twitter](https://twitter.com/nachivpn)
-* [LinkedIn](https://www.linkedin.com/in/nachivpn)
 * [Goodreads](https://www.goodreads.com/user/show/45403127-nachi)
-
-## Miscellaneous
-
-* [Mention on VentureBeat](http://venturebeat.com/2014/12/24/googles-no-captcha-recaptchas-may-not-be-as-bot-proof-as-we-thought)
 
 ## Some (old) rant
 
