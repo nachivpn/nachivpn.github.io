@@ -6,7 +6,7 @@ PhD student at Chalmers University on the [Octopi project](https://octopi.chalme
 
 ## Recent work
 
-* [Simple Noninterference by Normalization (Draft)](nibnbe.pdf), PLAS 2019
+* [Simple Noninterference by Normalization](nibnbe.pdf), PLAS 2019
 * [Exponential Elimination for Bicartesian Closed Categorical Combinators (Draft)](expelim.pdf), PPDP 2019
 * [Towards Adding Variety to Simplicity](variety.pdf), ISoLA 2018
 * [Typing the Wild in Erlang](ew18.pdf), Erlang Workshop 2018
