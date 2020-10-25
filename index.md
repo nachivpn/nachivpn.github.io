@@ -2,7 +2,7 @@
 layout: default
 ---
 
-PhD student at Chalmers University on the [Octopi project](https://octopi.chalmers.se/). I work on functional programming languages using types, categories and logic.
+PhD student at Chalmers University on the [Octopi project](https://octopi.chalmers.se/). I study functional programming languages.
 
 ## Recent work
 
@@ -15,5 +15,5 @@ PhD student at Chalmers University on the [Octopi project](https://octopi.chalme
 ## Some things I've done in the past
 * Masters in Computer Science (Algorithms, Logic and Languages) at Chalmers University, Sweden
 * Summer student at CERN
-* Backend development/consultant at/for a bunch of startups
+* Backend development/consultant at/for a few startups
 * Bachelors in Computer Science at National Institute of Technology, Calicut (India)
