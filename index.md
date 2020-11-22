@@ -2,7 +2,7 @@
 layout: default
 ---
 
-PhD student at Chalmers University on the [Octopi project](https://octopi.chalmers.se/). I study functional programming languages.
+PhD student at Chalmers University on the [Octopi project](https://octopi.chalmers.se/). I study programming languages, and my research interests lie in the areas of functional programming, type systems and language-based security. Currently, I spend an awful lot of time thinking about the development of normalization and partial evaluation techniques for various programming language applications.
 
 ## Recent work
 
