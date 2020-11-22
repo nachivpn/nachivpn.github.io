@@ -19,7 +19,7 @@ PhD student at Chalmers University on the [Octopi project](https://octopi.chalme
 * Typing the Wild in Erlang ([video](https://www.youtube.com/watch?v=GjVDTHlD4nM), [slides](ew18-slides.pdf)) - Talk at Erlang Workshop, Sep '18.
 
 
-## Past Gigs
+## Past gigs
 * Masters in Computer Science (Algorithms, Logic and Languages) at Chalmers University, Sweden
 * Summer student at CERN
 * Backend development/consultant at/for a few startups
