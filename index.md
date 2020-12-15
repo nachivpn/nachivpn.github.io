@@ -14,6 +14,7 @@ PhD student at Chalmers University on the [Octopi project](https://octopi.chalme
 
 ## Talks 
 
+* Be My Guest ([abstract](https://research.chalmers.se/publication/520510), [slides](lic-slides.pdf)) - Licentiate Seminar, Dec '20.
 * Boxes and Locks ([slides](bnl-proglog-slides.pdf)) - Proglog seminar, Dec '20.
 * Towards Secure IoT Programming in Haskell ([video](https://www.youtube.com/watch?v=FqnScw9U7gA), [slides](haski-slides.pdf)) - Haskell Symposium, Aug '20.
 * Categorical Combinators ([abstract](https://github.com/InitialTypes/Club/wiki/Abstracts.2019.Cat.Combinators)) - Initial Types Club, Apr '20.
